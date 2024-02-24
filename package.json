@@ -38,7 +38,7 @@
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
     "@types/three": "^0.156.0",
-    "eslint": "8.49.0",
+    "eslint": "8.57.0",
     "eslint-config-next": "13.4.19",
     "lint-staged": "^14.0.1",
     "million": "latest",
