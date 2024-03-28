@@ -34,7 +34,7 @@
     "@react-three/drei": "^9.84.0",
     "@react-three/fiber": "^8.14.2",
     "@react-three/rapier": "^1.1.1",
-    "@types/node": "20.6.2",
+    "@types/node": "20.11.30",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
     "@types/three": "^0.156.0",
@@ -79,7 +79,7 @@
     "storybook": "^7.4.2"
   },
   "volta": {
-    "node": "20.6.1",
+    "node": "20.12.0",
     "npm": "10.1.0"
   },
   "readme": "ERROR: No README data found!",
